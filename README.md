@@ -76,11 +76,7 @@ To run the code, following libraies are required
 </p>
 
 ```
-# Single image on CIFAR
-python main.py --index 25
-
-# Deep Leakage on your own Image
-python main.py --image yours.jpg
+All you need to do is run overall_imp.py in the dlgenv environment.
 ```
   
 # Deep Leakage on Batched Images
